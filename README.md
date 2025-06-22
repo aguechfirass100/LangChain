@@ -23,8 +23,8 @@ This repository contains a series of full-stack GenAI applications built using L
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/langchain-projects.git
-cd langchain-projects
+git@github.com:aguechfirass100/LangChain.git
+cd LangChain
 
 # Set up virtual environment
 python -m venv venv
@@ -32,3 +32,9 @@ source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
+```
+
+📬 Contact
+Firass Aguech
+📧 Email: aguechfirass100@gmail.com
+🔗 GitHub: @aguechfirass100
